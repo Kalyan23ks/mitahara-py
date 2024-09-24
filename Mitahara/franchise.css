@@ -1,0 +1,231 @@
+*{
+    font-family: "Playpen Sans", cursive;
+    
+}
+
+
+.oats_banner{
+    height: 200px;
+    width: 1200px;
+}
+
+.cat-flex{
+    display: flex;
+}
+
+.banner{
+    
+    background-image: url('./images/banner1\ .jpg');
+
+    height: 550px;
+    width: 1300px;
+}
+
+
+@keyframes bannerimg
+{
+    0%{background-image: url('./images/oats_banner.jpg');}
+
+    50%{background-image: url('./images/banner1 .jpg');}
+
+    100%{background-image: url('./images/oats_banner.jpg');}
+}
+.th{
+    width: 420px;
+    height: 160px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.our{
+    width: 500px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.logo{
+    width: 300px;
+    height: 300px;
+    margin-left: 660px;
+    margin-top: -270px;
+}
+.fl{
+    margin-left: 100px;
+    margin-top: -140px;
+    height: 10px;
+    width: 150px;
+}
+.ye{
+    margin-left: 100px;
+    width: 300px;
+    height: 300px;
+}
+.mi{
+    margin-left: 190px;
+
+}
+.con{
+    background-color:lightgray;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    margin-top: 70px;
+}
+.le{
+    background-color: lightgray;
+}
+.fo{
+    background-color: lightgreen;
+}
+.out{
+    margin-left: 100px;
+}
+.les{
+    margin-left: 100px;
+
+}
+.hi{
+    margin-left: 5px;
+
+}
+.for{
+    height: 100px;
+    
+}
+.form{
+    margin-left: 100px;
+}
+.tt{
+    width: 300px;
+    height: 20px;
+}
+.org{
+    width: 1000px;
+    margin-left: 37px;
+    filter: opacity(15%);
+    
+}
+.bar-1{
+    position:absolute;
+    z-index: 1000px;
+    top: 750px;
+    margin-left: 100px;
+    display: flex;
+    width: 1000px;
+}
+.bar-2{
+    margin-right: 150px;
+}
+.bar-3{
+    margin-right: 150px;
+}
+.bar{
+    margin-bottom: 50px;
+}
+.lay{
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.lak{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+
+}
+.up{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.container{
+    display: flex;
+    padding: 10px;
+    margin-left: 20px;
+    align-items: center;
+    height: 400px;
+}
+
+.flex-item{
+    background-color: #CAE09F;
+    margin-left: 8px;
+    padding: 10px;
+}
+.button-submit{
+    margin-left: 30px;
+    padding: 5px;
+    width: 130px;
+    margin-top: 10px;
+}
+.te{
+    padding: 3px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+    
+}
+.em{
+    padding: 3px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+}
+.mo{
+    padding: 3px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+}
+.ci{
+    padding: 3px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+}
+.st{
+    padding: 3px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+}
+.mi{
+    margin-left: 80px;
+}
+.nav{
+    background-color:#CAE09F;
+    font-size: x-large;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    display: flex;
+    position: sticky;
+    top:0px;
+    right:0px;
+    left:0px;
+    margin-left: -10px;
+    margin-top: -10px;
+ }  
+
+
+ .nav-item{
+  text-decoration: none;
+   color: black;
+   margin-top: 35px;
+   padding: 15px;
+   margin-left: 20px;
+ }
+ .logo-img{
+   padding-right: 40px;
+}  
+body{
+    overflow-x: hidden;
+}
+.frc{
+    margin-left: 800px;
+    margin-top: -500px;
+    width: 400px;
+    height: 300px;
+}
+
+body{
+    overflow-x: hidden;
+}
+  
